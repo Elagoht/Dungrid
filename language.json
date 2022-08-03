@@ -1,0 +1,77 @@
+{
+    "English":{
+        "__comments__":[
+            "If you want to add a language pack DO NOT FORGET TO ADD CURLY PARENTHESIS '{}'."
+        ],
+        "namelist":[
+            ["John","Bob","Johnny","Steven","William","Logan","Ben","Michael","Alex","Oliver","Lucas","Dylan","Isaac","Andrew","Charles","Carl","Leo","Kevin","Gary","Austin","Jack","Cody","Eden","Sheldon","Steve","David","Ethan","Elliot","Levi","Thomas","Tom","Cameron","Jordan","Nick","Jose","Sam","Dante","Robert","Connor","Paul","Douglas","Scott","Rick","Morty","Stefan","Jimmy","Gerald","Dean","Justin","Richard","Erik"],
+            ["Sally","Lily","Betty","Jessica","Amalia","Anna","Jennifer","Amy","Mary","Emily","Lisa","Cindy","Tracy","Lisa","Lucy","Nicole","Olive","Robyn","Patricia","Tyra","Maria","Alex","Mia","Jessy","Penny","Lindsey","Chloe","Angel","Emma","Jenny","Jasmine","Hannah","Rebecca","Sarah","Julia","Claire","Bella","Sophia","Melanie","Amanda","Eileen","Zoe","Katie","Taylor","Megan","Jade","Hazel","Maeve","Daphne","Abby"]
+        ],
+        "atk":" is going to attack to {} square.",
+        "dfc":" took defence position.",
+        "ahl":" is going to first aid based on {} square.",
+        "lft":" moved left square.",
+        "up":" moved up square.",
+        "rgh":" moved right square.",
+        "dwn":" moved down square.",
+        "hlt":"Health: ",
+        "nme":"Name: ",
+        "cls":"Class: ",
+        "sex":"Gender: ",
+        "crd":"Coords: ",
+        "man":"Male",
+        "wmn":"Female",
+        "cwz":"Wizard",
+        "cwr":"Warrior",
+        "csp":"Support",
+        "car":"Archer"
+    },
+    "Turkce":{
+        "namelist":[
+            ["Burak","Furkan","Enes","Batuhan","Adil","Berk","Orhan","Emin","Bayram","Aytekin","Bekir","Alp","Eren","Cüneyt","Doruk","Barış","Kaan","Kayra","Ali","Mert","Adal","Efe","Atakan","Baran","Orhun","Sinan","Oğuz","Tekin","Selçuk","Arda","Berkalp","Berkay","Can","Ceyhun","Çağın","Dinçer","Ege","Egemen","Yiğit","Gökhan","Gökalp","Hakan","Kapan","Kutay","Levent","Aydın","Onur","Mahzar","Özkan","Tuna"],
+            ["Ekin","Deniz","Derya","Doğa","Ayşe","Nur","Adalet","Açelya","Berfin","Ceyda","Gamze","Hazal","İdil","Merve","Nisan","Özge","Seda","Şevval","Elçin","Zeynep","Jülide","Çiğdem","Kübra","Buse","Burcu","Melisa","Kumsal","Ada","Afet","Damla","Aşkın","Şeyma","Şeyda","Eda","Selma","Selin","Leyla","Ayça","Gül","Dilek","Ayten","Ayşem","Ecem","Sena","Banu","Buket","Ece","Esila","Ilgın","Janset"]
+        ],
+        "atk":" {} karesine saldıracak.",
+        "dfc":" savunma pozisyonuna geçecek.",
+        "ahl":" {} karesini baz alarak ilk yardım uygulayacak.",
+        "lft":" sol kareye ilerledi.",
+        "up":" üst kareye ilerledi.",
+        "rgh":" sağ kareye ilerledi.",
+        "dwn":" alt kareye ilerledi.",
+        "hlt":"Sağlık: ",
+        "nme":"İsim: ",
+        "cls":"Sınıf: ",
+        "sex":"Cinsiyet: ",
+        "crd":"Koordinat: ",
+        "man":"Erkek",
+        "wmn":"Kadın",
+        "cwz":"Sihirbaz",
+        "cwr":"Savaşçı",
+        "csp":"Destek",
+        "car":"Okçu"
+    },
+    "Osmanlica":{
+        "namelist":[
+            ["Mehmet","Mahmut","Mustafa","Mücahit","Gıyas","İhsan","İrfan","İbrahim","Hasan","Zekeriya","İlhami","İnan","Abbas","Abdullah","Abdül","Fadıl","Fuat","Cemil","İskender","Hüseyin","Oflaz","Necmi","Namık","Müştak","Muhip","Halit","Ömer","Abidin","Miraç","Ahmet","Attila","Bahri","Bilal","Cumali","Cübeyr","Cahit","Davut","Şaban","Ensar","Eşref","Fatih","Fevzi","Hamza","Hilmi","Evliya","Hızır","Kadir","Kabil","Kuddusi","Mevlüt"],
+            ["Füruze","Zümrüdü","Venhar","Selvi","Reyhan","Hamide","Halime","Rüveyda","Nurgül","Mehtap","Sultan","Fatıma","Arzu","Adile","Aliye","Hüsniye","Elif","Şimal","Asiye","Bedriye","Hatice","Necmiye","Vuslat","Şems","Seher","Nükhet","Süheyla","Amine","Behiye","Cevher","Didar","Esra","Füsun","Gaye","Havva","Itır","Kösem","Leman","Melek","Nuray","Oya","Pakize","Ravza","Saye","Şermin","Taliha","Ubeyde","Vildan","Yelda","Zeliha","Zühre"]
+        ],
+        "atk":" {} meydanına hecm eyleyecek.",
+        "dfc":" kendini müdafaa eyleyecek",
+        "ahl":" {} meydanını baz alarak ıslah edecek.",
+        "lft":" sola hutu etdi.",
+        "up":" üste hutu etdi.",
+        "rgh":" sağa hutu etdi.",
+        "dwn":" alta hutu etdi.",
+        "hlt":"Sıhhat: ",
+        "nme":"Nâm: ",
+        "cls":"Vazife: ",
+        "sex":"Cins: ",
+        "crd":"Vaz'iye: ",
+        "man":"Oğlan",
+        "wmn":"Kız",
+        "cwz":"Efsunger",
+        "cwr":"Cengaver",
+        "csp":"Sıhhiyeci",
+        "car":"Kemankeş"
+    }
+}
